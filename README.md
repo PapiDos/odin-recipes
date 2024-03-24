@@ -1,4 +1,4 @@
-# ⚡Odin Recipes 🥣
+# ⚡ Odin Recipes 🥣
 
 This project is just a bare-bones website with a collection of recipes built with HTML to showcase my web development skills.
 
