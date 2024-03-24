@@ -1,0 +1,40 @@
+My Odin Recipes Project
+
+This project is a barebone and simple website with a main index page
+linking to a few recipes.
+
+The intention of this project is to put in practice 
+what I've learned so far in the Fundation course of
+The Odin Project.
+
+I will showcase my ability to implement my knowledge in
+HTML, Git, GitHub, CLI.
+
+Once I advance in the curriculum I might revisit this
+project to improve the UI designe with CSS and maybe
+it's functionality with JS.
+Your README.md for the "Odin Recipes" project looks good! Here are a few minor suggestions for improvement:
+
+Typo in Project Name: You wrote "READMI.md" instead of "README.md" in the first line. Ensure the file name is correct.
+
+Clarify Project Description: It might be helpful to provide a clearer description of what the website is about. For example, you could mention that it's a collection of recipes or a cooking-related project.
+
+Improve Formatting: The text seems to be cut off in the second paragraph. Make sure the content is complete and formatted properly.
+
+Here's a revised version incorporating these suggestions:
+
+Odin Recipes Project
+This project is a simple website showcasing a collection of recipes. It serves as a basic and minimalistic platform with a main page linking to various recipes.
+
+Project Purpose
+The intention of this project is to apply the concepts learned in the Foundation course of The Odin Project. I will demonstrate my proficiency in:
+
+HTML
+Git
+GitHub
+Command Line Interface (CLI)
+Future Plans
+As I progress through the curriculum, I plan to revisit this project to enhance its:
+
+UI design with CSS
+Functionality using JavaScript 
