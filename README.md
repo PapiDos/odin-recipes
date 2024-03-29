@@ -9,13 +9,21 @@ The main purpose of this project is to implement what I've learned so far in the
 ## Technologies Used
 
 - HTML
+- CSS (New)
 - Git
 - GitHub
 - Bash
 
+## Updates
+
+**Version 1.1.0 (March 27, 2024)**
+
+- Apply basic CSS styling to enhance the user interface
+- Use of colors, fonts, and spacing to create a cohesive look
+
 ## Future Enhancements
 
-As I progress through the curriculum, I plan to revisit this project to enhance the UI design with CSS and add some functionality with JavaScript.
+As I progress through the curriculum, I might revisit this project to add responsiveness with CSS and some functionality with JavaScript.
 
 ## About The Odin Project
 
