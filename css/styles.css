@@ -33,3 +33,30 @@ a {
   font-weight: bold;
   line-height: 2em;  
 }
+
+/* Recipe pages styling */
+.recipes {
+  margin: 32px auto;
+  max-width: 600px;
+}
+
+.recipes li {
+  margin-bottom: 1.2em;
+}
+
+.recipes h1 {
+  margin-top: 50px;
+  font-size: 2.4em;
+  text-shadow: #5f5554 2px 2px 4px;
+  text-align: center;
+}
+
+.recipes img {
+  width: 600px;
+  height: auto;
+  box-shadow: #5f5554 7px 7px 14px;
+}
+
+.recipes h2 {
+  margin-top: 40px;
+}
